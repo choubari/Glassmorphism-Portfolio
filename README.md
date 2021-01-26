@@ -3,7 +3,7 @@ This is a static HTML/CSS Glassmorphism Portfolio based on @developedbyed [tutor
 
 ## Sample Screenshot :
 <p align="center">
-  <img  src="images/screenshot.png" width="600px">
+  <img  src="images/screenshot.PNG">
 
 ### **Live [DEMO](https://choubari.github.io/Glassmorphism-Portfolio/)**.
 
