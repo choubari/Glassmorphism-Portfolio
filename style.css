@@ -12,7 +12,8 @@ h1 {
 }
 h2,
 p {
-  display:inline; vertical-align:middle;
+  display: inline;
+  vertical-align: middle;
   color: #658ec6;
   font-weight: 500;
   opacity: 0.8;
@@ -37,16 +38,16 @@ main {
   align-items: center;
   justify-content: center;
 }
-.glassbutton{
+.glassbutton {
   display: flex;
-  justify-content: flex-end
+  justify-content: flex-end;
 }
 .glassbutton p {
   color: #1db69a;
   font-weight: 600;
-  display:inline-block;
-  clear:both;
-  float:left;
+  display: inline-block;
+  clear: both;
+  float: left;
   background: linear-gradient(
     to left bottom,
     rgba(255, 255, 255, 0.8),
@@ -97,7 +98,8 @@ main {
   flex-direction: column;
   /*align-items: center;
   justify-content: space-evenly;
-  */text-align: center;
+  */
+  text-align: center;
   background: linear-gradient(
     to right bottom,
     rgba(255, 255, 255, 0.7),
@@ -148,7 +150,7 @@ main {
   box-shadow: 6px 6px 20px rgba(122, 122, 122, 0.212);
   justify-content: space-between;
 }
-.card img{
+.card img {
   top: 0;
   bottom: 0;
   margin: auto;
